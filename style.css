@@ -1,0 +1,26 @@
+div.field {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  background-color: blue;
+  float: left;
+}
+
+section {
+  width: 364px;
+}
+
+div.coin {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: white;
+  margin: 5px;
+}
+div.coin.yellow {
+  background-color: yellow;
+}
+
+div.coin.red {
+  background-color: red;
+}
